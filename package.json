@@ -1,6 +1,7 @@
 {
   "name": "hellab",
   "version": "0.1.0",
+  "homepage": "http://AndresEspinozaMonsalve.github.io/mi-web",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
@@ -27,5 +28,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }

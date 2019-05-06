@@ -46,7 +46,17 @@ class Series extends Component {
                                         <a class="btn btn-common btn-rm" href="#">próximamente</a>
                                     </div>
                                 </div>
-                            </div>                            
+                            </div>  
+                            <div className="col-xs-12 col-md-6 col-lg-4">
+                                <div className="about-item">
+                                    <img className="img-fluid" src="assets/img/about/got8.jpg" alt=""></img>
+                                    <div className="about-text">
+                                        <h3><a href="#">Game of Thrones T08 E03</a></h3>
+                                        <p>Esta serie, basada en los libros de George R.R. Martin, muestra la competencia entre familias nobles de siete reinos de Westeros, cuya finalidad es ganar el control sobre el Trono de Hierro.</p>
+                                        <a class="btn btn-common btn-rm" href="#">próximamente</a>
+                                    </div>
+                                </div>
+                            </div>                          
                         </div>
                     </div>
                 </div>    
