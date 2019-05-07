@@ -19,7 +19,8 @@ class Peliculas extends Component {
                                 <div className="about-item">
                                     <img className="img-fluid" src="assets/img/about/quieren.jpg" alt=""></img>
                                     <div className="about-text">
-                                        <h3><a href="#">Lo que ellos quieren</a></h3>
+                                        <h3>Lo que ellos quieren</h3>
+                                        <h4>Clave: Hellab302</h4>
                                         <p>Ali Davis adquiere un don mágico: es capaz de oír lo que los hombres están pensando. A partir de ese momento, usará su habilidad para triunfar en un mundo de hombres, el de los agentes deportivos, y firmar un contrato con una estrella del basket.</p>
                                         <a class="btn btn-common btn-rm" href="#">próximamente</a>
                                     </div>
@@ -29,7 +30,8 @@ class Peliculas extends Component {
                                 <div className="about-item">
                                     <img className="img-fluid" src="assets/img/about/aquaman.jpg" alt=""></img>
                                     <div className="about-text">
-                                        <h3><a href="#">Aquaman</a></h3>
+                                        <h3>aquaman</h3>
+                                        <h4>Clave: Hellab302</h4>
                                         <p>Aquaman debe recuperar el legendario Tridente de Atlan para salvar a la ciudad subacuática de Atlantis, y al mundo de la superficie, de su hermano hambriento de poder.</p>
                                         <a class="btn btn-common btn-rm" href="#">próximamente</a>
                                     </div>
@@ -39,7 +41,8 @@ class Peliculas extends Component {
                                 <div className="about-item">
                                     <img className="img-fluid" src="assets/img/about/cita.jpg" alt=""></img>
                                     <div className="about-text">
-                                        <h3><a href="#">Cita Perfecta</a></h3>
+                                        <h3>Cita Perfecta</h3>
+                                        <h4>Clave: Hellab302</h4>
                                         <p>La cita perfecta es una película estadounidense dirigida por Chris Nelson y estrenada en la plataforma Netflix en 2019. Es una comedia romántica protagonizada por Noah Centineo, Laura Marano y Camila Mendes.​ La película está basada en la novela "The Stand-In" de Steven Bloom.</p>
                                         <a class="btn btn-common btn-rm" href="#">próximamente</a>
                                     </div>
