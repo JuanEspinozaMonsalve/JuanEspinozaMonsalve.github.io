@@ -49,13 +49,13 @@ class Footer extends Component {
                             <h3>SUSCRIBETE</h3>
                         <div className="widget">
                         <div className="newsletter-wrapper">
-                            {/* <form method="post" id="subscribe-form" name="subscribe-form" className="validate">
+                            <form method="post" id="subscribe-form" name="subscribe-form" className="validate" data-netlify="true">
                                 <div className="form-group is-empty">
                                     <input type="email" value="" name="Email" className="form-control" id="EMAIL" placeholder="Tu email" required=""></input>
                                     <button type="submit" name="subscribe" id="subscribes" className="btn btn-common sub-btn"><i className="lni-pointer"></i></button>
                                     <div className="clearfix"></div>
                                 </div>
-                            </form> */}
+                            </form>
                         </div>
                         </div>
                             <div className="widget">
