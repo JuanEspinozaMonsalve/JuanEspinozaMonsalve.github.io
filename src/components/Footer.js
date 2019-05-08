@@ -30,7 +30,7 @@ class Footer extends Component {
                                         <img className="img-fluid" src="assets/img/a1.jpg" alt=""></img>
                                     </figure>
                                         <div className="post-content">
-                                            <h6 className="post-title"> <a href="blog-single.html">Lorem ipsm dolor sumit.</a> </h6>
+                                            <h6 className="post-title"> <a href="#">Lorem ipsm dolor sumit.</a> </h6>
                                             <div className="meta"><span className="date">Fecha</span></div>
                                        </div>
                                 </li>
@@ -39,7 +39,7 @@ class Footer extends Component {
                                         <img className="img-fluid" src="assets/img/a1.jpg" alt=""></img>
                                     </figure>
                                     <div className="post-content">
-                                        <h6 className="post-title"><a href="blog-single.html">Lorem ipsm dolor sumit.</a></h6>
+                                        <h6 className="post-title"><a href="#">Lorem ipsm dolor sumit.</a></h6>
                                         <div className="meta"><span className="date">Fecha</span></div>
                                     </div>
                                 </li>
@@ -61,8 +61,8 @@ class Footer extends Component {
                             <div className="widget">
                                <h5 className="widget-title">Siguenos en</h5>
                                 <ul className="footer-social">
-                                    <li><a className="facebook" href="https://ouo.io/0nQ1WL"><i className="lni-facebook-filled"></i></a></li>
-                                    <li><a className="twitter" href="https://ouo.io/sA15qP"><i className="lni-twitter-filled"></i></a></li>
+                                    <li><a className="facebook" href="https://www.facebook.com/Hellab302-997789640428126"><i className="lni-facebook-filled"></i></a></li>
+                                    <li><a className="twitter" href="https://twitter.com/Hellab3021"><i className="lni-twitter-filled"></i></a></li>
                                     <li><a className="linkedin" href="#"><i className="lni-linkedin-filled"></i></a></li>
                                 </ul>
                             </div>
