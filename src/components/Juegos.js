@@ -53,7 +53,7 @@ class Juegos extends Component {
                                     <img className="img-fluid" src="assets/img/about/pes.jpg" alt=""></img>
                                     <div className="about-text">
                                         <h3>PES 2019</h3>
-                                        <h4>Clave: www.descargatelocorp.com</h4>
+                                        <h5>Clave: www.descargatelocorp.com</h5>
                                         <p>Pro Evolution Soccer 2019 es un videojuego simulador de fútbol de la serie Pro Evolution Soccer desarrollado y publicado por Konami.</p>
                                         <a class="btn btn-common btn-rm" href="https://ouo.io/qEMP3O">Parte 1</a>
                                         <a class="btn btn-common btn-rm" href="https://ouo.io/zYim5C">Parte 2</a>
