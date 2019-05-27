@@ -47,7 +47,28 @@ class Juegos extends Component {
                                         <a class="btn btn-common btn-rm" href="#">Próximamente</a>
                                     </div>
                                 </div>
-                            </div>                            
+                            </div>   
+                            <div className="col-xs-12 col-md-6 col-lg-4">
+                                <div className="about-item">
+                                    <img className="img-fluid" src="assets/img/about/pes.jpg" alt=""></img>
+                                    <div className="about-text">
+                                        <h3>PES 2019</h3>
+                                        <h4>Clave: www.descargatelocorp.com</h4>
+                                        <p>Pro Evolution Soccer 2019 es un videojuego simulador de fútbol de la serie Pro Evolution Soccer desarrollado y publicado por Konami.</p>
+                                        <a class="btn btn-common btn-rm" href="https://ouo.io/qEMP3O">Parte 1</a>
+                                        <a class="btn btn-common btn-rm" href="https://ouo.io/zYim5C">Parte 2</a>
+                                        <a class="btn btn-common btn-rm" href="https://ouo.io/zVcymO">Parte 3</a>
+                                        <a class="btn btn-common btn-rm" href="https://ouo.io/SSr47BY">Parte 4</a>
+                                        <a class="btn btn-common btn-rm" href="https://ouo.io/BRzMbZ">Parte 5</a>
+                                        <a class="btn btn-common btn-rm" href="https://ouo.io/J0MPKF">Parte 6</a>
+                                        <a class="btn btn-common btn-rm" href="https://ouo.io/vNi4v4">Parte 7</a>
+                                        <a class="btn btn-common btn-rm" href="https://ouo.io/Edo4P6">Parte 8</a>
+                                        <a class="btn btn-common btn-rm" href="https://ouo.io/kTszca">Parte 9</a>
+                                        <a class="btn btn-common btn-rm" href="https://ouo.io/vBtfP1">Parte 10</a>
+                                        <a class="btn btn-common btn-rm" href="https://ouo.io/S5S4wYw">Parte 11</a>
+                                    </div>
+                                </div>
+                            </div>                          
                         </div>
                     </div>
                 </div>    
