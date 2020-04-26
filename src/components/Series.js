@@ -17,7 +17,7 @@ class Series extends Component {
                         <div className="row">
                             <div className="col-xs-12 col-md-6 col-lg-4">
                                 <div className="about-item">
-                                    <img className="img-fluid" src="assets/img/about/quiennn.jpeg" alt=""></img>
+                                    <img className="img-fluid" src="assets/img/about/quierennn.jpeg" alt=""></img>
                                     <div className="about-text">
                                         <h3>Game of Thrones T08 E01</h3>
                                         <h4>Clave: Hellab302</h4>
