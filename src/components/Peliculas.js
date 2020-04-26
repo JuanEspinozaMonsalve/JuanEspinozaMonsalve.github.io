@@ -17,7 +17,7 @@ class Peliculas extends Component {
                         <div className="row">
                             <div className="col-xs-12 col-md-6 col-lg-4">
                                 <div className="about-item">
-                                    <img className="img-fluid" src="assets/img/about/quieren.jpg" alt=""></img>
+                                    <img className="img-fluid" src="assets/img/about/quierenn.jpg" alt=""></img>
                                     <div className="about-text">
                                         <h3>Lo que ellos quieren</h3>
                                         <h4>Clave: Hellab302</h4>
@@ -39,7 +39,7 @@ class Peliculas extends Component {
                             </div>
                             <div className="col-xs-12 col-md-6 col-lg-4">
                                 <div className="about-item">
-                                    <img className="img-fluid" src="assets/img/about/cita.jpg" alt=""></img>
+                                    <img className="img-fluid" src="assets/img/about/citaa.jpg" alt=""></img>
                                     <div className="about-text">
                                         <h3>Cita Perfecta</h3>
                                         <h4>Clave: Hellab302</h4>
