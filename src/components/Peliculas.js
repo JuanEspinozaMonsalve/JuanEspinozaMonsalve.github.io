@@ -28,7 +28,7 @@ class Peliculas extends Component {
                             </div>
                             <div className="col-xs-12 col-md-6 col-lg-4">
                                 <div className="about-item">
-                                    <img className="img-fluid" src="assets/img/about/aquaman.jpg" alt=""></img>
+                                    <img className="img-fluid" src="assets/img/about/aquamann.jpg" alt=""></img>
                                     <div className="about-text">
                                         <h3>aquaman</h3>
                                         <h4>Clave: Hellab302</h4>
